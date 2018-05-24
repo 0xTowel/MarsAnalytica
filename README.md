@@ -6,6 +6,7 @@ descrease the file size. To start the challenge, I recommend unpacking it with `
 
 The challenge is also on the [Ringzer0 Team CTF](https://ringzer0team.com/) website and the flag can be tested there.
 
-# Known Solvers
+# Known Solvers and Writeups
 The following people have solved the challenge:
- * [Toshi](https://twitter.com/piazzt)
+ * [Toshi](https://twitter.com/piazzt) - [Angr Based Writeup](https://blog.rpis.ec/2018/05/northsec-2018-marsanalytica.html)
+ * [W4kfu](https://twitter.com/w4kfu)
