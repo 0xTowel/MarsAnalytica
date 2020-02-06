@@ -7,4 +7,4 @@ descrease the file size. To start the challenge, I recommend unpacking it with `
 # Writeups
 Since the CTF has ended the challenge has been solved. Below are some writeups worth reading (spoilers ahead!):
  * [Toshi](https://twitter.com/piazzt) - [Angr Based Writeup](https://blog.rpis.ec/2018/05/northsec-2018-marsanalytica.html)
- * [Scud](https://twitter.com/5Cl_lD) - [Using IDA's API](https://re-dojo.github.io/post/2018-10-28-mars-analytica/)
+ * [Scud](https://twitter.com/5Cl_lD) - [Using IDA's API](https://re-dojo.github.io/posts/2018-10-28-mars-analytica/)
