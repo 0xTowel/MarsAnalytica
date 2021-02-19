@@ -8,3 +8,4 @@ descrease the file size. To start the challenge, I recommend unpacking it with `
 Since the CTF has ended the challenge has been solved. Below are some writeups worth reading (spoilers ahead!):
  * [Toshi](https://twitter.com/piazzt) - [Angr Based Writeup](https://rpis.ec/blog/northsec-2018-marsanalytica/)
  * [Scud](https://twitter.com/5Cl_lD) - [Using IDA's API](https://re-dojo.github.io/posts/2018-10-28-mars-analytica/)
+ * [PNFSoftware, JEB Decompiler Team](https://www.pnfsoftware.com/) - [Custom JEB Plugin](https://www.pnfsoftware.com/blog/traveling-around-mars-with-c-emulation/) [(related)](https://www.pnfsoftware.com/blog/marsanalytica-crackme-solution-part-1/)
